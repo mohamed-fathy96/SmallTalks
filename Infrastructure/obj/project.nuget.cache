@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSI9+Ywj0aPt/+cJuk3p0L9KVVBbwafQ4lLLFvhL2oJGcP6k5hZLe+w7UYJW9xdiKLZD6m8PqshhTh7IvkYjYg==",
+  "dgSpecHash": "9Nak9qZFSd3685mtNlOxAnVdnNlbJO/8DW1FRugiaPVMKxktakfUyLBVR3I8UDPNFt1OgWa8hBcHtaXRkHj2nQ==",
   "success": true,
-  "projectFilePath": "F:\\ChatService\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fathy\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Fathy\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

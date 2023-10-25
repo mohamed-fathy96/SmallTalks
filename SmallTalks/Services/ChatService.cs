@@ -50,7 +50,7 @@
 			lock (Users)
 			{
 
-				var currentUser= Users.Where(x => x.Value == user).Select(x => x.Value).FirstOrDefault();
+				var currentUser= Users.Where(x => x.Key == user).Select(x => x.Value).FirstOrDefault();
 				return currentUser;
 
 

@@ -34,7 +34,10 @@
             </div>
             <div class="card-footer">
                <app-chat-input (contentEmitter)="sendMessage($event)"></app-chat-input> 
-
+               <button (mousedown)="startRecording()" (mouseup)="stopRecording()">Record</button>
+               <input type="file" (change)="handleImageInput($event)" style="display: none" #fileInput>
+               <button (click)="fileInput.click()">Send Image</button>
+               <!-- <button (click)="sendAudio()">Send Audio</button> -->
             </div>
         </div>
     </div>

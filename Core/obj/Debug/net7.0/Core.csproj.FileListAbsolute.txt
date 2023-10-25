@@ -22,3 +22,15 @@ F:\ChatService\Core\obj\Debug\net7.0\Core.dll
 F:\ChatService\Core\obj\Debug\net7.0\refint\Core.dll
 F:\ChatService\Core\obj\Debug\net7.0\Core.pdb
 F:\ChatService\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\bin\Debug\net7.0\Core.deps.json
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\bin\Debug\net7.0\Core.dll
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\bin\Debug\net7.0\Core.pdb
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\obj\Debug\net7.0\Core.dll
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\obj\Debug\net7.0\Core.pdb
+C:\Users\Fathy\OneDrive\Desktop\Test\SmallTalks\Core\obj\Debug\net7.0\ref\Core.dll

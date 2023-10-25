@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ChatService\\Core\\Core.csproj": {}
+    "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Core\\Core.csproj": {}
   },
   "projects": {
-    "F:\\ChatService\\Core\\Core.csproj": {
+    "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ChatService\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "F:\\ChatService\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-        "outputPath": "F:\\ChatService\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fathy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

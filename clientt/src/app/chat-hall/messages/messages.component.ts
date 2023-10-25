@@ -28,4 +28,8 @@ messageIsSeen(message: IMessage): boolean {
   }
 }
 
+playAudio(audio:HTMLAudioElement){
+   audio.play();
+}
+
 }

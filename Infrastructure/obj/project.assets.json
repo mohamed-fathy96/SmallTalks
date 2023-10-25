@@ -4770,11 +4770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ChatService\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "F:\\ChatService\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-      "outputPath": "F:\\ChatService\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fathy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4791,8 +4791,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\ChatService\\Core\\Core.csproj": {
-              "projectPath": "F:\\ChatService\\Core\\Core.csproj"
+            "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Fathy\\OneDrive\\Desktop\\Test\\SmallTalks\\Core\\Core.csproj"
             }
           }
         }
@@ -4852,7 +4852,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
